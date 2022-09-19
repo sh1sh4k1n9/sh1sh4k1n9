@@ -1,4 +1,5 @@
 ### Hi there 👋
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=5h15h4k1n9&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **5h15h4k1n9/5h15h4k1n9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
