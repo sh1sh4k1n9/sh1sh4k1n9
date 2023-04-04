@@ -1,4 +1,9 @@
 ### Hi there 👋
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/bAQH7WXKqtIBrPs7sR/giphy.gif" width="300"/>
+</div>
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=5h15h4k1n9&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
