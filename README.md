@@ -21,6 +21,38 @@
   Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
+### :man_technologist: About Me:
+
+I'm a Software Engineer :walking:
+
+- :rage1: I am passionate about developing high-quality software.
+- :rage2: I have worked on a variety of projects, from small-scale applications to large-scale systems used by hundreds of users.
+- :rage3: I am excited about the opportunity to work on challenging projects and make an impact in the software engineering field.
+
+---
+
+### :hammer_and_wrench: Skills and Technologies:
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="Kotlin" alt="Kotlin" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/haskell/haskell-original.svg" title="Haskell" alt="Haskell" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" title="MS Sql" alt="MS Sql" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="Kotlin" alt="Kotlin" width="40" height="40"/>&nbsp;
+</div>
+
+---
+
+### :fire: My Stats :
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=5h15h4k1n9&theme=tokyonight-duo&border_radius=10&mode=weekly)](https://git.io/streak-stats)
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=5h15h4k1n9&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) -->
+
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=5h15h4k1n9&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!--
