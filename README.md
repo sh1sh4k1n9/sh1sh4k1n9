@@ -2,13 +2,13 @@
   <img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" width="500"/>
 </div>
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/5h15h4k1n9/">
+  <a href="https://www.linkedin.com/in/5h15h4k1n9/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://5h15h4k1n9.github.io">
+  <a href="https://5h15h4k1n9.github.io" target="_blank">
     <img src="https://img.shields.io/badge/website-blue?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio Badge"/>
   </a>
-  <a href="https://t.me/sh1sh4k1n9">
+  <a href="https://t.me/sh1sh4k1n9" target="_blank">
     <img src="https://img.shields.io/badge/-telegram-blue?style=for-the-badge&logo=telegram&logoColor=black" alt="Telegram Badge"/>
   </a>
 </div>
