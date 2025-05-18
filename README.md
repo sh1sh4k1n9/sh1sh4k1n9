@@ -2,10 +2,10 @@
   <img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" width="500"/>
 </div>
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/5h15h4k1n9/" target="_blank">
+  <a href="https://www.linkedin.com/in/sh1sh4k1n9/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://5h15h4k1n9.github.io" target="_blank">
+  <a href="https://sh1sh4k1n9.github.io" target="_blank">
     <img src="https://img.shields.io/badge/website-blue?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio Badge"/>
   </a>
   <a href="https://t.me/sh1sh4k1n9" target="_blank">
@@ -14,7 +14,7 @@
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=5h15h4k1n9&style=flat-square&color=blue" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=sh1sh4k1n9&style=flat-square&color=blue" alt="Profile views"/>
 </div>
 
 <h1 align="center">
@@ -45,14 +45,14 @@ I'm a Software Engineer :walking:
 
 ### :fire: My Stats :
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=5h15h4k1n9&theme=tokyonight-duo&border_radius=10&mode=weekly)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=sh1sh4k1n9&theme=tokyonight-duo&border_radius=10&mode=weekly)](https://git.io/streak-stats)
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=5h15h4k1n9&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) -->
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sh1sh4k1n9&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) -->
 
-<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=5h15h4k1n9&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats) -->
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sh1sh4k1n9&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!--
-**5h15h4k1n9/5h15h4k1n9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**sh1sh4k1n9/sh1sh4k1n9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
